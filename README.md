@@ -9,7 +9,7 @@
  # Technologies
    C Programming
  # Setup
-  To run this project, install any of the IDE(Integrated development environment) that support C Language.
+  To run this project, install any of the IDE(Integrated development environment) that support C Language or you can use your local command prompt.
   ```
   gcc Main.c
   ./a.out
